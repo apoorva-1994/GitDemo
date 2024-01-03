@@ -6,6 +6,9 @@ public class Selenium {
 		
 		System.out.println("Selenium Test 1");
 		
+		System.out.println("Selenium Test 2");
+		
+		
 	}
 
 }
