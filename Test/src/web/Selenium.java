@@ -8,6 +8,8 @@ public class Selenium {
 		
 		System.out.println("Selenium Test 2");
 		
+		System.out.println("Selenium Test 3");
+		
 		
 	}
 
