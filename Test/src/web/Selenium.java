@@ -12,6 +12,8 @@ public class Selenium {
 		
 		System.out.println("Selenium Test 4");
 		
+		System.out.println("Selenium Test 5");
+		
 		
 	}
 
